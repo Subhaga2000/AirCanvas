@@ -1,4 +1,4 @@
-# Air Canvas - My First Computer Vision Project
+# Air Canvas - My Computer Vision Project
 
 Draw in the air using your hand with a webcam! This project uses Python, OpenCV, and MediaPipe to create an interactive canvas.
 
